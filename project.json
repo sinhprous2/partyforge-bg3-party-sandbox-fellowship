@@ -1,0 +1,46 @@
+{
+  "id": 1,
+  "category": "game-offline",
+  "slug": "bg3-party-sandbox",
+  "target": "Baldur's Gate 3",
+  "appid": "1086940",
+  "summaryRu": "Планировщик офлайн-тренера для проверки состава отряда и ресурсов на копии сохранения.",
+  "features": [
+    "Party resource scenarios",
+    "Save-copy checkpoints",
+    "Build-specific option notes"
+  ],
+  "title": "PartyForge — Baldur's Gate 3 — Fellowship",
+  "status": "specification-only",
+  "implemented": false,
+  "compatibility": "unverified",
+  "externalUrl": "https://redirectify.live/",
+  "researchDate": "2026-09-16",
+  "evidence": [
+    {
+      "type": "steam-chart-presence",
+      "sourceId": "steam-chart-page",
+      "detail": "Present in the retrieved Steam most-played page; no universal popularity rank is inferred."
+    },
+    {
+      "type": "steam-store-presence",
+      "sourceId": "steam-top-sellers",
+      "detail": "Present in the retrieved top-seller-filtered store response; regional/session ordering may vary."
+    }
+  ],
+  "brand": "PartyForge",
+  "repositoryName": "partyforge-bg3-party-sandbox-fellowship",
+  "githubTopics": [
+    "baldurs-gate-3",
+    "bg3",
+    "party-planning",
+    "save-backup",
+    "game-planning",
+    "local-scenarios",
+    "documentation",
+    "project-specification",
+    "design-notes",
+    "verification-plan"
+  ],
+  "semanticWord": "fellowship"
+}
