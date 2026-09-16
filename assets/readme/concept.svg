@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="440" viewBox="0 0 1120 440" role="img" aria-labelledby="title desc">
+<title id="title">Baldur&apos;s Gate 3 — project outline</title>
+<desc id="desc">Concept diagram, not a screenshot of working software. Proposed modules: Party resource scenarios, Save-copy checkpoints, Build-specific option notes.</desc>
+<rect width="1120" height="440" rx="24" fill="#111827"/>
+<rect x="36" y="36" width="1048" height="6" rx="3" fill="hsl(0,65%,65%)"/>
+<text x="44" y="90" fill="#9ca3af" font-family="sans-serif" font-size="17">PROJECT 001 / SPECIFICATION ONLY</text>
+<text x="44" y="144" fill="#f9fafb" font-family="sans-serif" font-size="32">Baldur&apos;s Gate 3</text>
+<text x="44" y="181" fill="#cbd5e1" font-family="sans-serif" font-size="18">Offline game project</text>
+<rect x="44" y="220" width="332" height="115" rx="14" fill="#1f2937"/>
+<text x="62" y="252" fill="hsl(0,65%,72%)" font-family="sans-serif" font-size="15">PLANNED MODULE 01</text>
+<text x="62" y="294" fill="#f3f4f6" font-family="sans-serif" font-size="15">Party resource scenarios</text>
+<rect x="394" y="220" width="332" height="115" rx="14" fill="#1f2937"/>
+<text x="412" y="252" fill="hsl(0,65%,72%)" font-family="sans-serif" font-size="15">PLANNED MODULE 02</text>
+<text x="412" y="294" fill="#f3f4f6" font-family="sans-serif" font-size="15">Save-copy checkpoints</text>
+<rect x="744" y="220" width="332" height="115" rx="14" fill="#1f2937"/>
+<text x="762" y="252" fill="hsl(0,65%,72%)" font-family="sans-serif" font-size="15">PLANNED MODULE 03</text>
+<text x="762" y="294" fill="#f3f4f6" font-family="sans-serif" font-size="15">Build-specific option notes</text>
+<text x="44" y="395" fill="#9ca3af" font-family="sans-serif" font-size="17">Concept illustration · No executable release · Compatibility unverified</text>
+</svg>
